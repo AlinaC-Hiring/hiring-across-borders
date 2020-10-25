@@ -38,3 +38,27 @@
   location: Canada (multiple locations); Guadalajara, Mexico; Bogotá, Colombia
   hiring: Backend, Frontend, iOS, Android, Site Reliability Engineers as well as Data Scientists, Data Analysts
   url: <a href="https://terminal.io/openings">Jobs Page</a>
+
+# eVision via @dgoemans 
+- name: eVision 
+  location: Netherlands
+  hiring: Many
+  url: <a href="https://careers.wolterskluwer.com/">Careers Page</a> (via parent company Wolters Kluwer)
+
+# CoolGames via @dgoemans
+- name: CoolGames
+  location: Netherlands
+  hiring: Product Manager, Engineering
+  url: <a href="https://www.coolgames.com/careers/">Careers Page</a>
+
+# FindHotel via @dgoemans 
+- name: FindHotel
+  location: Netherlands
+  hiring: Engineering, Recruiting, Data Analysts, Partnerships
+  url: <a href="https://careers.findhotel.net/">Careers Page</a>
+
+# ING Bank via @Palsenberg (only involved in ING Netherlands)
+- name: ING Bank
+  location: Netherlands
+  hiring: Tech, Banking 
+  url: <a href="https://ing.jobs">ing.jobs</a>
